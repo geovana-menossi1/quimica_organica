@@ -2,6 +2,7 @@ import React from 'react';
 
 const Admin = () => (
   <div className="login-box">
+    <h2>Login</h2>
     <form>
       <div className="user-box">
         <input type="text" name="username" required />
